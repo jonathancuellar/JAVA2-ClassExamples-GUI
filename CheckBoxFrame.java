@@ -39,7 +39,7 @@ public class CheckBoxFrame extends JFrame
 
     // register the check box
     boldCheckBox.addItemListener(handler);
-    italicCheckBox.addItemListenr(handler);
+    italicCheckBox.addItemListener(handler);
 
   }// end constructor
 
